@@ -1,0 +1,25 @@
+{
+  "name": "Atelier — Agenda & Tâches",
+  "short_name": "Atelier",
+  "description": "Gestion de temps et tâches minimaliste",
+  "start_url": "./atelier.html",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#15171a",
+  "background_color": "#f6f3ee",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
